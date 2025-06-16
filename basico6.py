@@ -7,4 +7,3 @@ while (num < 10):
     if(num == 6):
         break
 
-
