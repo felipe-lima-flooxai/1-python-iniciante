@@ -16,3 +16,9 @@ nomes = ["Ana", "João"]
 idades = [25, 30]
 for nome, idade in zip(nomes, idades):
     print(f"{nome} tem {idade} anos")
+
+
+print("Numeros de 2 em 2, a partir do 5, até o 20")
+for num in range(5, 20, 2):
+    print(num)
+
